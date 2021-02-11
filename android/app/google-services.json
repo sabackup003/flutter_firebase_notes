@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "326795108834",
+    "project_id": "firenotes-e80bb",
+    "storage_bucket": "firenotes-e80bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326795108834:android:1eadd3ba1a169dfba1d9bb",
+        "android_client_info": {
+          "package_name": "com.test.fibase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326795108834-t0t7989f1pgm1d5ipdt9jrvd0ng196gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACnkyL0TLJmJywQGlLRn1ENTHgBK_hVIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326795108834-t0t7989f1pgm1d5ipdt9jrvd0ng196gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326795108834-q4599ld1jgq240qp6h5j4n9evmmvvb4r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "flutter.dev.flutterFirebaseNotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
